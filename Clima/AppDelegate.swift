@@ -1,10 +1,9 @@
 //
-//  AppDelegate.swift
+//  WeatherModel.swift
 //  Clima
 //
-//  Created by Angela Yu on 01/09/2019.
-//  Copyright © 2019 App Brewery. All rights reserved.
-//
+//  Created by Barış Yeşilkaya on 3.08.2022.
+//  
 
 import UIKit
 
